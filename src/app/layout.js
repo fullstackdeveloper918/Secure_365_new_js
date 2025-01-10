@@ -5,7 +5,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Nanotech Website - A Creative Portfolio Template</title>
+        <title>Secure 365 - A Creative Portfolio Template</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Download the best Creative Portfolio HTML Template in 2024" />
         <meta name="author" content="ClaPat Studio" />

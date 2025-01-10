@@ -38,7 +38,7 @@ export default function Home() {
         <div id="clapat-page-content" className="dark-content" data-bgcolor="#ebebeb">
             
             {/* <!-- Header --> */}
-            <header className="clapat-header classNameic-menu invert-header" data-menucolor="#0c0c0c">
+            <header className="clapat-header classic-menu invert-header" data-menucolor="#0c0c0c">
             	
                 {/* <!-- Graidient --> */}
                 <div className="header-gradient"></div>
