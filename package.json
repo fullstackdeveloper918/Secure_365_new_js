@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gsap": "^3.12.5",
+    "jquery": "^3.7.1",
+    "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.4"
+    "scrolltrigger": "^1.0.1"
   },
   "devDependencies": {
     "postcss": "^8",
